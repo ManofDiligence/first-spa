@@ -7,7 +7,7 @@ function App() {
     <BrowserRouter>
       <a href="/checkout">shopping cart1A </a>
 
-      <Link to="/"> HomePage</Link>
+      <Link to="/"> HomePage10</Link>
       <Link to="/product"> Info about product</Link>
       <Link to="/checkout"> shopping cartLink</Link>
       <Routes>
